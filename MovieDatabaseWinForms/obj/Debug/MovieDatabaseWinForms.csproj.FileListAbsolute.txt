@@ -1,0 +1,27 @@
+C:\Users\Usib_uf00\source\repos\MovieDatabaseWinForms\MovieDatabaseWinForms\bin\Debug\MovieDatabaseWinForms.exe.config
+C:\Users\Usib_uf00\source\repos\MovieDatabaseWinForms\MovieDatabaseWinForms\bin\Debug\MovieDatabaseWinForms.exe
+C:\Users\Usib_uf00\source\repos\MovieDatabaseWinForms\MovieDatabaseWinForms\bin\Debug\MovieDatabaseWinForms.pdb
+C:\Users\Usib_uf00\source\repos\MovieDatabaseWinForms\MovieDatabaseWinForms\obj\Debug\MovieDatabaseWinForms.csprojAssemblyReference.cache
+C:\Users\Usib_uf00\source\repos\MovieDatabaseWinForms\MovieDatabaseWinForms\obj\Debug\MovieDatabaseWinForms.Form1.resources
+C:\Users\Usib_uf00\source\repos\MovieDatabaseWinForms\MovieDatabaseWinForms\obj\Debug\MovieDatabaseWinForms.Properties.Resources.resources
+C:\Users\Usib_uf00\source\repos\MovieDatabaseWinForms\MovieDatabaseWinForms\obj\Debug\MovieDatabaseWinForms.csproj.GenerateResource.cache
+C:\Users\Usib_uf00\source\repos\MovieDatabaseWinForms\MovieDatabaseWinForms\obj\Debug\MovieDatabaseWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Usib_uf00\source\repos\MovieDatabaseWinForms\MovieDatabaseWinForms\obj\Debug\MovieDatabaseWinForms.exe
+C:\Users\Usib_uf00\source\repos\MovieDatabaseWinForms\MovieDatabaseWinForms\obj\Debug\MovieDatabaseWinForms.pdb
+C:\Users\Usib_uf00\source\repos\MovieDatabaseWinForms\MovieDatabaseWinForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usib_uf00\source\repos\MovieDatabaseWinForms\MovieDatabaseWinForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usib_uf00\source\repos\MovieDatabaseWinForms\MovieDatabaseWinForms\obj\Debug\MovieDatabaseWinForms.csproj.CopyComplete
+\\ITSTEP\students redirection$\Usib_uf00\Desktop\MovieDatabaseWinForms\MovieDatabaseWinForms\bin\Debug\MovieDatabaseWinForms.exe.config
+\\ITSTEP\students redirection$\Usib_uf00\Desktop\MovieDatabaseWinForms\MovieDatabaseWinForms\bin\Debug\MovieDatabaseWinForms.exe
+\\ITSTEP\students redirection$\Usib_uf00\Desktop\MovieDatabaseWinForms\MovieDatabaseWinForms\bin\Debug\MovieDatabaseWinForms.pdb
+\\ITSTEP\students redirection$\Usib_uf00\Desktop\MovieDatabaseWinForms\MovieDatabaseWinForms\bin\Debug\Newtonsoft.Json.dll
+\\ITSTEP\students redirection$\Usib_uf00\Desktop\MovieDatabaseWinForms\MovieDatabaseWinForms\bin\Debug\Newtonsoft.Json.xml
+\\ITSTEP\students redirection$\Usib_uf00\Desktop\MovieDatabaseWinForms\MovieDatabaseWinForms\obj\Debug\MovieDatabaseWinForms.csprojAssemblyReference.cache
+\\ITSTEP\students redirection$\Usib_uf00\Desktop\MovieDatabaseWinForms\MovieDatabaseWinForms\obj\Debug\MovieDatabaseWinForms.Form1.resources
+\\ITSTEP\students redirection$\Usib_uf00\Desktop\MovieDatabaseWinForms\MovieDatabaseWinForms\obj\Debug\MovieDatabaseWinForms.Properties.Resources.resources
+\\ITSTEP\students redirection$\Usib_uf00\Desktop\MovieDatabaseWinForms\MovieDatabaseWinForms\obj\Debug\MovieDatabaseWinForms.csproj.GenerateResource.cache
+\\ITSTEP\students redirection$\Usib_uf00\Desktop\MovieDatabaseWinForms\MovieDatabaseWinForms\obj\Debug\MovieDatabaseWinForms.csproj.CoreCompileInputs.cache
+\\ITSTEP\students redirection$\Usib_uf00\Desktop\MovieDatabaseWinForms\MovieDatabaseWinForms\obj\Debug\MovieDatabaseWinForms.csproj.CopyComplete
+\\ITSTEP\students redirection$\Usib_uf00\Desktop\MovieDatabaseWinForms\MovieDatabaseWinForms\obj\Debug\MovieDatabaseWinForms.exe
+\\ITSTEP\students redirection$\Usib_uf00\Desktop\MovieDatabaseWinForms\MovieDatabaseWinForms\obj\Debug\MovieDatabaseWinForms.pdb
+\\ITSTEP\students redirection$\Usib_uf00\Desktop\MovieDatabaseWinForms\MovieDatabaseWinForms\obj\Debug\MovieDatabaseWinForms.FormMoreInfo.resources
